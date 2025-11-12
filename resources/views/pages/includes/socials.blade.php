@@ -1,0 +1,2 @@
+<a href="https://api.whatsapp.com/send?phone=34{{ setting('page_cellphone') }}" target="_blank" class="bt-buy-now theme-btn"><i class="fab fa-whatsapp"></i><span>Whatsapp</span></a>
+<a href="tel:+34{{ setting('page_phone') }}" target="_blank" class="bt-support-options theme-btn"><i class="fa fa-desktop"></i><span>Llamar</span></a>

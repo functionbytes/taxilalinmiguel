@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+Allow: /
+Allow: /conductor
+Allow: /servicios
+Allow: /preguntas
+Allow: /informacion
+Allow: /contacto
+
+
